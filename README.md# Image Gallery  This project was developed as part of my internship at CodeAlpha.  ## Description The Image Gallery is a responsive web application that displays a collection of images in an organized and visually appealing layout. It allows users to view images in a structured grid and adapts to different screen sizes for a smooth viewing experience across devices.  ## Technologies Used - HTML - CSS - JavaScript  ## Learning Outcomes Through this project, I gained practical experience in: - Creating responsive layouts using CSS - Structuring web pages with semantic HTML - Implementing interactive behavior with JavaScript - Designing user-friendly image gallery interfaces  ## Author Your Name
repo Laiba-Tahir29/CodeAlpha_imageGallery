@@ -1,0 +1,21 @@
+# Image Gallery
+
+This project was developed as part of my internship at CodeAlpha.
+
+## Description
+The Image Gallery is a responsive web application that displays a collection of images in an organized and visually appealing layout. It allows users to view images in a structured grid and adapts to different screen sizes for a smooth viewing experience across devices.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Learning Outcomes
+Through this project, I gained practical experience in:
+- Creating responsive layouts using CSS
+- Structuring web pages with semantic HTML
+- Implementing interactive behavior with JavaScript
+- Designing user-friendly image gallery interfaces
+
+## Author
+Laiba Tahir
